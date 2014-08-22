@@ -1,2 +1,3 @@
-echo Added Commit On: $(date) >> README.md;
+echo \nAdded Commit On: $(date) >> README.md;
+
 git commit -a -m "Committee README.md";
