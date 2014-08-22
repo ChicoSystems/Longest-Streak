@@ -395,3 +395,11 @@ fatal: The remote end hung up unexpectedly
 $Adding New Commit to README.md  Fri Aug 22 14:21:01 PDT 2014
 uid=0(root) gid=0(root) groups=0(root)
 $Pushing To Github  Fri Aug 22 14:21:02 PDT 2014
+[master f100c7b] Added to README
+ 1 file changed, 7 insertions(+)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+$Adding New Commit to README.md  Fri Aug 22 14:22:01 PDT 2014
+SSH_AUTH_SOCK=/tmp/ssh-RYz6cv1U1QX5/agent.28124; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=28126; export SSH_AGENT_PID;
+echo Agent pid 28126;
