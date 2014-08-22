@@ -300,3 +300,10 @@ $Adding New Commit to README.md  Fri Aug 22 14:07:01 PDT 2014
 env
 $Adding New Commit to README.md  Fri Aug 22 14:08:01 PDT 2014
 $Pushing To Github  Fri Aug 22 14:08:01 PDT 2014
+[master b3f8ae5] Added to README
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+
+$Pushing To Github  Fri Aug 22 14:09:01 PDT 2014
+$Adding New Commit to README.md  Fri Aug 22 14:09:01 PDT 2014
