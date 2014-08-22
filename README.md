@@ -142,3 +142,7 @@ $Pushing To Github  Fri Aug 22 13:34:01 PDT 2014
 [master 15d68c4] Added to README
  2 files changed, 8 insertions(+), 1 deletion(-)
 $Adding New Commit to README.md  Fri Aug 22 13:35:01 PDT 2014
+[master 301e060] Added to README
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+$Adding New Commit to README.md  Fri Aug 22 13:36:01 PDT 2014
+$Pushing To Github  Fri Aug 22 13:36:01 PDT 2014
