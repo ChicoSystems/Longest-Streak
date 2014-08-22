@@ -33,3 +33,14 @@ Adding New Commit to README.md  Fri Aug 22 14:47:01 PDT 2014
 $
 
 Pushing To Github  Fri Aug 22 14:47:01 PDT 2014
+[master 0aa274b] Added to README
+ 1 file changed, 35 insertions(+), 517 deletions(-)
+ rewrite README.md (97%)
+To RemoteServer:ChicoSystems/Longest-Streak.git
+   3edabdb..0aa274b  master -> master
+$
+
+Adding New Commit to README.md  Fri Aug 22 14:48:02 PDT 2014
+$
+
+Pushing To Github  Fri Aug 22 14:48:02 PDT 2014
