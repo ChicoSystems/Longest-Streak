@@ -66,3 +66,8 @@ To RemoteServer:ChicoSystems/Longest-Streak.git
 $
 
 Adding New Commit to README.md  Fri Aug 22 14:51:01 PDT 2014
+[master 57f8d3d] Added to README
+ 1 file changed, 7 insertions(+)
+$
+
+Adding New Commit to README.md  Fri Aug 22 14:52:01 PDT 2014
