@@ -160,3 +160,7 @@ $Pushing To Github  Fri Aug 22 13:38:01 PDT 2014
 Permission denied (publickey).
 fatal: The remote end hung up unexpectedly
 $Adding New Commit to README.md  Fri Aug 22 13:39:01 PDT 2014
+[master cadb72f] Added to README
+ 2 files changed, 6 insertions(+)
+$Adding New Commit to README.md  Fri Aug 22 13:40:01 PDT 2014
+Could not open a connection to your authentication agent.
