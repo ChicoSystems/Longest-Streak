@@ -335,3 +335,10 @@ fatal: The remote end hung up unexpectedly
 HOME=/root LOGNAME=root PATH=/usr/bin:/bin XDG_RUNTIME_DIR=/run/user/root LANG=en_US.UTF-8 SHELL=/bin/sh PWD=/root
 $Adding New Commit to README.md  Fri Aug 22 14:13:02 PDT 2014
 $Pushing To Github  Fri Aug 22 14:13:02 PDT 2014
+[master 94f9354] Added to README
+ 1 file changed, 9 insertions(+)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+pgrep: invalid user name: ssh-agent
+$Adding New Commit to README.md  Fri Aug 22 14:14:01 PDT 2014
+HOME=/root LOGNAME=root PATH=/usr/bin:/bin XDG_RUNTIME_DIR=/run/user/root LANG=en_US.UTF-8 SHELL=/bin/sh PWD=/root
