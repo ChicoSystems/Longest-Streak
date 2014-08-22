@@ -388,3 +388,10 @@ fatal: The remote end hung up unexpectedly
 uid=0(root) gid=0(root) groups=0(root)
 $Adding New Commit to README.md  Fri Aug 22 14:20:01 PDT 2014
 $Pushing To Github  Fri Aug 22 14:20:01 PDT 2014
+[master 83f2d4a] Added to README
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+$Adding New Commit to README.md  Fri Aug 22 14:21:01 PDT 2014
+uid=0(root) gid=0(root) groups=0(root)
+$Pushing To Github  Fri Aug 22 14:21:02 PDT 2014
