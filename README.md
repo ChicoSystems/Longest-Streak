@@ -469,3 +469,8 @@ To RemoteServer:ChicoSystems/Longest-Streak.git
    a4f1d5b..165b31e  master -> master
 $Pushing To Github  Fri Aug 22 14:39:01 PDT 2014
 $Adding New Commit to README.md  Fri Aug 22 14:39:01 PDT 2014
+[master 94d800e] Added to README
+ 1 file changed, 6 insertions(+)
+To RemoteServer:ChicoSystems/Longest-Streak.git
+   165b31e..94d800e  master -> master
+$Adding New Commit to README.md  Fri Aug 22 14:40:01 PDT 2014
