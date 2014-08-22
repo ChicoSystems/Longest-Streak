@@ -381,3 +381,10 @@ fatal: The remote end hung up unexpectedly
 HOME=/root LOGNAME=root PATH=/usr/bin:/bin XDG_RUNTIME_DIR=/run/user/root LANG=en_US.UTF-8 SHELL=/bin/sh PWD=/root
 $Adding New Commit to README.md  Fri Aug 22 14:19:01 PDT 2014
 $Pushing To Github  Fri Aug 22 14:19:01 PDT 2014
+[master f83b3a2] Added to README
+ 1 file changed, 8 insertions(+)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+uid=0(root) gid=0(root) groups=0(root)
+$Adding New Commit to README.md  Fri Aug 22 14:20:01 PDT 2014
+$Pushing To Github  Fri Aug 22 14:20:01 PDT 2014

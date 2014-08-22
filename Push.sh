@@ -1,6 +1,5 @@
 #!/bin/bash
-source /root/.keychain/$HOSTNAME-sh
-echo $(env)
+echo $(id)
 echo $"Pushing To Github " $(date)
 cd /root/Longest-Streak
 #HOME=/root git pull github master
