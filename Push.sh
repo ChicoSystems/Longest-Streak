@@ -1,5 +1,5 @@
 #!/bin/sh
-exec ssh-agent bash
+exec ssh-agent sh
 /usr/bin/ssh-add -l
 echo $"Pushing To Github " $(date)
 cd /root/Longest-Streak
