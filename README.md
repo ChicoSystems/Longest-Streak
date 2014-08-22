@@ -365,3 +365,11 @@ fatal: The remote end hung up unexpectedly
 HOME=/root LOGNAME=root PATH=/usr/bin:/bin XDG_RUNTIME_DIR=/run/user/root LANG=en_US.UTF-8 SHELL=/bin/sh PWD=/root
 $Adding New Commit to README.md  Fri Aug 22 14:17:02 PDT 2014
 $Pushing To Github  Fri Aug 22 14:17:02 PDT 2014
+[master a4f1d5b] Added to README
+ 1 file changed, 7 insertions(+)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+/root/Longest-Streak/Push.sh: 2: /root/Longest-Streak/Push.sh: source: not found
+$Adding New Commit to README.md  Fri Aug 22 14:18:01 PDT 2014
+HOME=/root LOGNAME=root PATH=/usr/bin:/bin XDG_RUNTIME_DIR=/run/user/root LANG=en_US.UTF-8 SHELL=/bin/sh PWD=/root
+$Pushing To Github  Fri Aug 22 14:18:01 PDT 2014

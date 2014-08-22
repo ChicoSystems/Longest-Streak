@@ -1,4 +1,5 @@
 #!/bin/bash
+source /root/.keychain/$HOSTNAME-sh
 echo $(env)
 echo $"Pushing To Github " $(date)
 cd /root/Longest-Streak
