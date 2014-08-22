@@ -59,3 +59,11 @@ Adding New Commit to README.md  Fri Aug 22 13:17:01 PDT 2014
  2 files changed, 5 insertions(+)
 Pushing To Github  Fri Aug 22 13:18:01 PDT 2014
 Adding New Commit to README.md  Fri Aug 22 13:18:01 PDT 2014
+[master 6bf95f7] Added to README
+ 1 file changed, 4 insertions(+)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+Warning: Permanently added the RSA host key for IP address '192.30.252.130' to the list of known hosts.
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+Adding New Commit to README.md  Fri Aug 22 13:19:02 PDT 2014
