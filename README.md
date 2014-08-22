@@ -216,3 +216,9 @@ $Adding New Commit to README.md  Fri Aug 22 13:51:01 PDT 2014
  1 file changed, 5 insertions(+)
 Could not open a connection to your authentication agent.
 $Adding New Commit to README.md  Fri Aug 22 13:52:01 PDT 2014
+$Pushing To Github  Fri Aug 22 13:52:01 PDT 2014
+[master d09201d] Added to README
+ 1 file changed, 4 insertions(+)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+$Adding New Commit to README.md  Fri Aug 22 13:53:01 PDT 2014
