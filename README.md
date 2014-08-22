@@ -287,3 +287,7 @@ Permission denied (publickey).
 fatal: The remote end hung up unexpectedly
 /root/Longest-Streak/Push.sh: 2: .: Can't open /root/.keychain/-sh
 $Adding New Commit to README.md  Fri Aug 22 14:05:01 PDT 2014
+[master 8c59a55] Added to README
+ 2 files changed, 7 insertions(+)
+/root/Longest-Streak/Push.sh: 2: .: Can't open /root/.keychain/-sh
+$Adding New Commit to README.md  Fri Aug 22 14:06:01 PDT 2014
