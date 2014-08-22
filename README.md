@@ -403,3 +403,10 @@ $Adding New Commit to README.md  Fri Aug 22 14:22:01 PDT 2014
 SSH_AUTH_SOCK=/tmp/ssh-RYz6cv1U1QX5/agent.28124; export SSH_AUTH_SOCK;
 SSH_AGENT_PID=28126; export SSH_AGENT_PID;
 echo Agent pid 28126;
+$Pushing To Github  Fri Aug 22 14:22:01 PDT 2014
+[master 588f245] Added to README
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+$Adding New Commit to README.md  Fri Aug 22 14:23:01 PDT 2014
+$Pushing To Github  Fri Aug 22 14:23:01 PDT 2014
