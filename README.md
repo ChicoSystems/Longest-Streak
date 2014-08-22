@@ -416,3 +416,8 @@ Permission denied (publickey).
 fatal: The remote end hung up unexpectedly
 $Pushing To Github  Fri Aug 22 14:24:01 PDT 2014
 $Adding New Commit to README.md  Fri Aug 22 14:24:01 PDT 2014
+[master 7ddc57b] Added to README
+ 1 file changed, 6 insertions(+)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+$Adding New Commit to README.md  Fri Aug 22 14:25:02 PDT 2014
