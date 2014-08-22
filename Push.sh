@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 SSH_AGENT_PID=`pgrep -U $USER ssh-agent`
 for PID in $SSH_AGENT_PID; do
     let "FPID = $PID - 1"
