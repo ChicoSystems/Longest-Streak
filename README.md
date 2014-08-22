@@ -463,3 +463,9 @@ $Adding New Commit to README.md  Fri Aug 22 14:37:01 PDT 2014
  1 file changed, 4 insertions(+)
 $Adding New Commit to README.md  Fri Aug 22 14:38:01 PDT 2014
 $Pushing To Github  Fri Aug 22 14:38:01 PDT 2014
+[master 165b31e] Added to README
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+To RemoteServer:ChicoSystems/Longest-Streak.git
+   a4f1d5b..165b31e  master -> master
+$Pushing To Github  Fri Aug 22 14:39:01 PDT 2014
+$Adding New Commit to README.md  Fri Aug 22 14:39:01 PDT 2014
