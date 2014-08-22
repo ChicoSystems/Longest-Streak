@@ -86,3 +86,8 @@ Adding New Commit to README.md  Fri Aug 22 14:54:01 PDT 2014
 $
 
 Adding New Commit to README.md  Fri Aug 22 14:55:01 PDT 2014
+[master 0dc5677] Added to README
+ 2 files changed, 6 insertions(+)
+$
+
+Adding New Commit to README.md  Fri Aug 22 14:56:01 PDT 2014
