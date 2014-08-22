@@ -78,3 +78,7 @@ fatal: The remote end hung up unexpectedly
 Permission denied (publickey).
 fatal: The remote end hung up unexpectedly
 Adding New Commit to README.md  Fri Aug 22 13:21:01 PDT 2014
+[master dd3fb8c] Added to README
+ 1 file changed, 7 insertions(+)
+/bin/sh: 1: root: not found
+Adding New Commit to README.md  Fri Aug 22 13:22:01 PDT 2014
