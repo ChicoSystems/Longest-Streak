@@ -139,3 +139,6 @@ $Adding New Commit to README.md  Fri Aug 22 13:33:01 PDT 2014
 $Adding New Commit to README.md  Fri Aug 22 13:34:01 PDT 2014
 $Pushing To Github  Fri Aug 22 13:34:01 PDT 2014
 /root/Longest-Streak/Push.sh: 7: /root/Longest-Streak/Push.sh: git: not found
+[master 15d68c4] Added to README
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+$Adding New Commit to README.md  Fri Aug 22 13:35:01 PDT 2014

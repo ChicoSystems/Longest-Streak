@@ -4,4 +4,4 @@ cd /root/Longest-Streak
 #HOME=/root git pull github master
 HOME=/root
 PATH=/root/.ssh
- git push github master
+/usr/bin/git push github master
