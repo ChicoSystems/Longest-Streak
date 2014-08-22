@@ -111,3 +111,8 @@ $Adding New Commit to README.md  Fri Aug 22 13:27:01 PDT 2014
  2 files changed, 9 insertions(+), 2 deletions(-)
 $Pushing To Github  Fri Aug 22 13:28:01 PDT 2014
 $Adding New Commit to README.md  Fri Aug 22 13:28:01 PDT 2014
+[master a187d05] Added to README
+ 1 file changed, 4 insertions(+)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+$Adding New Commit to README.md  Fri Aug 22 13:29:01 PDT 2014
