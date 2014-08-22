@@ -291,3 +291,7 @@ $Adding New Commit to README.md  Fri Aug 22 14:05:01 PDT 2014
  2 files changed, 7 insertions(+)
 /root/Longest-Streak/Push.sh: 2: .: Can't open /root/.keychain/-sh
 $Adding New Commit to README.md  Fri Aug 22 14:06:01 PDT 2014
+[master 6005c35] Added to README
+ 1 file changed, 4 insertions(+)
+/root/Longest-Streak/Push.sh: 2: .: Can't open /root/.keychain/-sh
+$Adding New Commit to README.md  Fri Aug 22 14:07:01 PDT 2014
