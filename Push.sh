@@ -1,6 +1,6 @@
 #!/bin/sh
 exec ssh-agent bash
-/usr/bin/ssh-add
+/usr/bin/ssh-add -l
 echo $"Pushing To Github " $(date)
 cd /root/Longest-Streak
 #HOME=/root git pull github master
