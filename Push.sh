@@ -1,4 +1,5 @@
 #!/bin/sh
+USER=root
 echo $(env)
 echo $"Pushing To Github " $(date)
 cd /root/Longest-Streak

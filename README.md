@@ -314,3 +314,10 @@ fatal: The remote end hung up unexpectedly
 $Adding New Commit to README.md  Fri Aug 22 14:10:01 PDT 2014
 HOME=/root LOGNAME=root PATH=/usr/bin:/bin XDG_RUNTIME_DIR=/run/user/root LANG=en_US.UTF-8 SHELL=/bin/sh PWD=/root
 $Pushing To Github  Fri Aug 22 14:10:02 PDT 2014
+[master 2d382c9] Added to README
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+HOME=/root LOGNAME=root PATH=/usr/bin:/bin XDG_RUNTIME_DIR=/run/user/root LANG=en_US.UTF-8 SHELL=/bin/sh PWD=/root
+$Adding New Commit to README.md  Fri Aug 22 14:11:01 PDT 2014
+$Pushing To Github  Fri Aug 22 14:11:01 PDT 2014
