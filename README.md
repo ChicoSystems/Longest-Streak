@@ -82,3 +82,6 @@ Adding New Commit to README.md  Fri Aug 22 13:21:01 PDT 2014
  1 file changed, 7 insertions(+)
 /bin/sh: 1: root: not found
 Adding New Commit to README.md  Fri Aug 22 13:22:01 PDT 2014
+[master 8a57d95] Added to README
+ 1 file changed, 4 insertions(+)
+$Adding New Commit to README.md  Fri Aug 22 13:23:02 PDT 2014
