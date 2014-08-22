@@ -281,3 +281,9 @@ Permission denied (publickey).
 fatal: The remote end hung up unexpectedly
 $Adding New Commit to README.md  Fri Aug 22 14:04:01 PDT 2014
 $Pushing To Github  Fri Aug 22 14:04:01 PDT 2014
+[master 69fa69c] Added to README
+ 1 file changed, 6 insertions(+)
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+/root/Longest-Streak/Push.sh: 2: .: Can't open /root/.keychain/-sh
+$Adding New Commit to README.md  Fri Aug 22 14:05:01 PDT 2014
