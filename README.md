@@ -59,3 +59,10 @@ Pushing To Github  Fri Aug 22 14:50:01 PDT 2014
 $
 
 Adding New Commit to README.md  Fri Aug 22 14:50:01 PDT 2014
+[master 2927ee4] Added to README
+ 1 file changed, 8 insertions(+)
+To RemoteServer:ChicoSystems/Longest-Streak.git
+   6f587cf..2927ee4  master -> master
+$
+
+Adding New Commit to README.md  Fri Aug 22 14:51:01 PDT 2014
