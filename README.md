@@ -125,3 +125,7 @@ $Adding New Commit to README.md  Fri Aug 22 13:30:01 PDT 2014
 Permission denied (publickey).
 fatal: The remote end hung up unexpectedly
 $Adding New Commit to README.md  Fri Aug 22 13:31:01 PDT 2014
+[master ef99b42] Added to README
+ 1 file changed, 5 insertions(+)
+$Adding New Commit to README.md  Fri Aug 22 13:32:01 PDT 2014
+$Pushing To Github  Fri Aug 22 13:32:01 PDT 2014
