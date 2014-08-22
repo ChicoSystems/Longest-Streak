@@ -182,3 +182,8 @@ $Adding New Commit to README.md  Fri Aug 22 13:44:01 PDT 2014
 [master a73ec10] Added to README
  2 files changed, 4 insertions(+), 1 deletion(-)
 $Adding New Commit to README.md  Fri Aug 22 13:45:01 PDT 2014
+[master e357108] Added to README
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+Could not open a connection to your authentication agent.
+$Adding New Commit to README.md  Fri Aug 22 13:46:01 PDT 2014
+$Pushing To Github  Fri Aug 22 13:46:01 PDT 2014
