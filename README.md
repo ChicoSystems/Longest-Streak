@@ -744,3 +744,11 @@ Adding New Commit to README.md  Fri Aug 22 16:48:01 PDT 2014
 $
 
 Adding New Commit to README.md  Fri Aug 22 16:49:01 PDT 2014
+[master 5eff3fc] Added to README
+ 1 file changed, 5 insertions(+)
+$
+
+Pushing To Github  Fri Aug 22 16:50:01 PDT 2014
+$
+
+Adding New Commit to README.md  Fri Aug 22 16:50:01 PDT 2014
