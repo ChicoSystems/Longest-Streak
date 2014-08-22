@@ -505,3 +505,13 @@ Adding New Commit to README.md  Fri Aug 22 14:45:01 PDT 2014
 $
 
 Pushing To Github  Fri Aug 22 14:45:01 PDT 2014
+[master aab3a24] Added to README
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+To RemoteServer:ChicoSystems/Longest-Streak.git
+   b5a3ce7..aab3a24  master -> master
+$
+
+Pushing To Github  Fri Aug 22 14:46:01 PDT 2014
+$
+
+Adding New Commit to README.md  Fri Aug 22 14:46:01 PDT 2014
