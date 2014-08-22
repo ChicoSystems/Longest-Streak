@@ -326,3 +326,12 @@ $Pushing To Github  Fri Aug 22 14:11:01 PDT 2014
 Permission denied (publickey).
 fatal: The remote end hung up unexpectedly
 $Adding New Commit to README.md  Fri Aug 22 14:12:02 PDT 2014
+HOME=/root LOGNAME=root PATH=/usr/bin:/bin XDG_RUNTIME_DIR=/run/user/root LANG=en_US.UTF-8 SHELL=/bin/sh PWD=/root
+[master 10b12d1] Added to README
+ 1 file changed, 5 insertions(+)
+$Pushing To Github  Fri Aug 22 14:12:02 PDT 2014
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+HOME=/root LOGNAME=root PATH=/usr/bin:/bin XDG_RUNTIME_DIR=/run/user/root LANG=en_US.UTF-8 SHELL=/bin/sh PWD=/root
+$Adding New Commit to README.md  Fri Aug 22 14:13:02 PDT 2014
+$Pushing To Github  Fri Aug 22 14:13:02 PDT 2014
