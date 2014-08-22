@@ -1,5 +1,5 @@
 #!/bin/bash
-eval `ssh-agent -s`
+. ~/.keychain/$HOSTNAME-sh
 echo $"Pushing To Github " $(date)
 cd /root/Longest-Streak
 #HOME=/root git pull github master
