@@ -2086,3 +2086,13 @@ Pushing To Github  Fri Aug 22 20:40:01 PDT 2014
 $
 
 Adding New Commit to README.md  Fri Aug 22 20:40:01 PDT 2014
+[master 36b3f92] Added to README
+ 1 file changed, 8 insertions(+)
+From RemoteServer:ChicoSystems/Longest-Streak
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+To RemoteServer:ChicoSystems/Longest-Streak.git
+   25122fd..36b3f92  master -> master
+$
+
+Adding New Commit to README.md  Fri Aug 22 20:41:01 PDT 2014
