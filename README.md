@@ -961,3 +961,8 @@ Adding New Commit to README.md  Fri Aug 22 17:25:01 PDT 2014
 $
 
 Adding New Commit to README.md  Fri Aug 22 17:26:01 PDT 2014
+[master 52c71e0] Added to README
+ 1 file changed, 5 insertions(+)
+$
+
+Adding New Commit to README.md  Fri Aug 22 17:27:01 PDT 2014
