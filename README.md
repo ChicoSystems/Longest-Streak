@@ -8,6 +8,7 @@ Setup a cron job executing Commit.sh once an Hour.
 Setup a cron job executing Push.sh twice a Day.
 
 Fri Aug 22 11:43:56 MST 2014
+test
 
 Added Commit On: Fri Aug 22 11:45:12 MST 2014
 
